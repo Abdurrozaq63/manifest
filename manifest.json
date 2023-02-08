@@ -1,10 +1,29 @@
 [
-  {
-    nama : 'Muhammad Abdul Rozaq',
-    nim : '21103041077'
-  },
-  {
-    nama : 'Alexandra',
-    nim : '2110304876'
-  }
+    {
+        nama: 'Iphone',
+        harga: 8000000
+    },
+    {
+        nama: 'Samsung',
+        harga: 5000000
+    },
+    {
+        nama: 'Xiaomi',
+        harga: 3500000
+    },
+    {
+        nama: 'Oppo',
+        harga: 4000000
+    },
+    {
+        nama: 'Realme',
+        harga: 2800000
+    },
+    {
+        nama: 'Huawei',
+        harga: 12000000
+    },
+    {
+        value: ''
+    }
 ];
