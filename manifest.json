@@ -1,29 +1,14 @@
 [
     {
-        nama: 'Iphone',
-        harga: 8000000
+        "nama": "Muhammad Abdul Rozaq",
+        "nim": "21103041077"
     },
     {
-        nama: 'Samsung',
-        harga: 5000000
+        "nama": "Alexander",
+        "nim": "21103045678"
     },
     {
-        nama: 'Xiaomi',
-        harga: 3500000
-    },
-    {
-        nama: 'Oppo',
-        harga: 4000000
-    },
-    {
-        nama: 'Realme',
-        harga: 2800000
-    },
-    {
-        nama: 'Huawei',
-        harga: 12000000
-    },
-    {
-        value: ''
+        "nama": "Captain America",
+        "nim": "21103043985"
     }
-];
+]
